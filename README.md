@@ -11,7 +11,7 @@ The project assumes a database with the following tables:
 - **pizzas** → Stores pizza information including price and size
 - **pizza_types** → Stores pizza category and name information
 
-> ⚠️ Note: The dataset structure should be created or imported before running these queries.
+
 
 ## 📊 Key SQL Queries & Insights
 The SQL script answers the following business questions:
